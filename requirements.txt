@@ -1,0 +1,9 @@
+H1. Como um usuario, desejo poder adicionar moedas na maquina, de tal forma que seja possivel 
+consumir uma das bebidas disponiveis. 
+
+H2. Como um usuario, gostaria de desistir de uma compra. Apos entrar com algumas moedas, 
+obter o valor restante. 
+
+H3. Como um usuario, gostaria de obter o meu troco apos a confirmacao de uma compra. Ou seja, 
+apos consumir alguma bebida, se ainda restarem moedas na maquina, gostaria de obte-las 
+de volta. 
